@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+.navbar
+{
+	background-image: linear-gradient(to right,#f7f016,#e69249,#f7f016);
+	position: fixed;
+	top:0px;
+	z-index: 1;
+	width: 100%;
+}
+.bname
+{
+	font-family: Algerian;
+	font-size: 25px;
+}
+.heading:hover
+{
+	text-decoration: none;
+}
+.opt
+{
+	font-weight: bolder;
+	color: black;
+	margin-right: 20px;
+	font-size: 20px;
+}
+.opt:hover
+{
+	color: #fa111d;
+}
+.dropdown-item
+{
+	font-weight: bolder;
+}
+.dropdown-item:hover
+{
+	background-color: cyan;
+}
+/*.carousel
+{
+	margin-top: 50px;
+}*/
+.slider
+{
+	margin-top: 60px;
+}
+.carousel-item img
+{
+	height: 100vh;
+	width: 100%;
+}
+.heading1
+{
+	color: #1f0404;
+	font-size: 50px;
+	font-weight:bolder;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	font-family: 'Orbitron', sans-serif;
+	text-shadow: 5px 5px 5px orange;
+}
+.fortimg:hover
+{
+	transition-duration: 3s;
+	width: 500px;
+	height: 300px;
+	border-radius: 0px;
+}
+.info
+{
+	font-size: 25px;
+	text-align: justify;
+	text-indent: 25%;
+	font-family: Arial Rounded MT Bold;
+}
+.cimg
+{
+	width: 50%;
+	height: 400px;
+
+}
+
+.card-title
+{
+	color: #780707;
+	font-weight: bolder;
+	font-size: 30px;
+	font-family: 'Orbitron', sans-serif;
+	text-shadow: 5px 5px 5px orange;
+}
+.infouser
+{
+	display: inline-flex;
+	width: 60%;
+}
+.forminput
+{
+	background-color: lightgrey;
+	border-left-color: black;
+	border-left-width: 4px;
+	border-left-style: solid;
+}
+.ip input
+{
+	width: 80%;
+	margin-left: 10%;
+}
+.footer{
+	height: 200px;
+	border-top: 10px groove black;
+	}
+.footeritem{
+	color: white;
+	padding-left: 60px;
+	 display: inline-block;
+
+         
+}
+.card-text
+{
+	font-size: 20px;
+}
+.card-text:hover
+{
+	background-color: black;
+	color: white;
+	font-size: 25px;
+}
+.copy
+{
+	color:white;
+	padding-left: 60px;
+	 display: inline-block;
+	 font-family: Harrington;
+	 font-weight: bolder;
+	 text-shadow: 10px 10px 10px red;
+	 text-decoration: underline;
+	}
